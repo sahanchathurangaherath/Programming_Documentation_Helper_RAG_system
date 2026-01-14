@@ -14,7 +14,7 @@ A RAG (Retrieval-Augmented Generation) system that helps you query programming d
 ## 📋 Prerequisites
 
 - Python 3.8 or higher
-- Gemini API key (free from Google AI Studio)
+-  API key 
 
 ## 🛠️ Installation
 
